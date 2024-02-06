@@ -1,4 +1,5 @@
-﻿internal class Program
+﻿// canvi a Miquel
+internal class Program
 {
     private static void Main(string[] args)
     {
