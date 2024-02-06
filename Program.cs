@@ -5,5 +5,6 @@
         Console.WriteLine("Hello, Montilivi");
         Console.WriteLine("I'm learning GitHub");
         Console.WriteLine("he creat una nova branca anomenada Miquel");
+        // Avançament a Master que no està a Miquel
     }
 }
